@@ -1,0 +1,14 @@
+/* NAVIGATION STUFF GOES HERE  */
+ nav{
+    ul {
+        display:flex;
+        justify-self: center;
+        text-align: center;
+    }
+    ul li a {
+        border: none;
+    }
+
+ } //end of nav
+
+ figure.photo {width: 50%; float: right;}
